@@ -17,16 +17,6 @@ It demonstrates a complete workflow from exploratory data analysis (EDA), prepro
   - Age
 - Target: `Outcome` (0 = No Diabetes, 1 = Diabetes)
 
-## Project Structure
-diabetes-prediction/
-│
-├── notebook/
-│   └── diabetes_prediction.ipynb
-├── data/
-│   └── diabetes.csv
-├── Requirements.txt
-└── README.md
-
 ## Preprocessing
 - Handle missing or zero values in features where appropriate (e.g., BMI, Glucose, BloodPressure)  
 - Standardize features for models like Logistic Regression  
