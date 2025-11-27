@@ -1,3 +1,9 @@
+### Machine Learning Portfolio Project  
+**Author:** Geraldo Augusta
+**Email:** geraldonyoman14@gmail.com  
+**LinkedIn:** https://linkedin.com/in/geraldoaugusta  
+**GitHub:** https://github.com/geraldoaugusta  
+
 # Diabetes Prediction – Machine Learning Classification
 
 ## Overview
@@ -36,8 +42,3 @@ It demonstrates a complete workflow from exploratory data analysis (EDA), prepro
 - Random Forest usually outperforms Logistic Regression for non-linear patterns.  
 - Features like **Glucose** and **BMI** are typically the most important predictors.  
 - This project demonstrates a full classification workflow suitable for a Data Science portfolio.
-
-## How to Run
-1. Install required libraries:
-```bash
-pip install -r requirements.txt
